@@ -1,0 +1,5 @@
+imdb_point,release_year,runtime,num_votes,is_action,is_adventure,is_animation,is_biography,is_comedy,is_crime,is_drama,is_family,is_fantasy,is_filmnoir,is_history,is_horror,is_music,is_musical,is_mystery,is_romance,is_scifi,is_sport,is_thriller,is_war,is_western
+8.0,1989,92,8200,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6.6,2023,103,33000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+6.5,1996,88,206000,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+7.6,2004,103,441000,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
